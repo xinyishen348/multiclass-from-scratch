@@ -1,0 +1,11 @@
+name: data2060
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14.7
+  - numpy=2.5.2
+  - pandas=3.0.5
+  - matplotlib=3.11.1
+  - scikit-learn=1.9.0
+  - pytest=9.1.1
+  - jupyter
